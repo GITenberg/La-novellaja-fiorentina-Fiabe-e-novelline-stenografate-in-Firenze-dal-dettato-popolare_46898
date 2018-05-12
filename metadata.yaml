@@ -1,4 +1,8 @@
 _repo: La-novellaja-fiorentina-Fiabe-e-novelline-stenografate-in-Firenze-dal-dettato-popolare_46898
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46898-h/images/cover.jpg
 creator:
   author:
     agent_name: Imbriani, Vittorio
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37065
     wikipedia: http://it.wikipedia.org/wiki/Vittorio_Imbriani
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46898#La-novellaja-fiorentina-Fiabe-e-novelline-stenografate-in-Firenze-dal-dettato-popolare
 gutenberg_bookshelf: IT Letteratura per ragazzi
 gutenberg_issued: '2014-09-19'
 gutenberg_type: Text
